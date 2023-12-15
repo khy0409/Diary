@@ -1,0 +1,57 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: 'TheJamsil5Bold';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2302_01@1.0/TheJamsil5Bold.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+	}
+	* {
+	font-family: TheJamsil5Bold, sans-serif;
+	}
+    .H2 {
+    position: fixed;
+    top: 18%;
+    left: 20%;
+    }
+     .Hr {
+    position: fixed;
+    top: 25%;
+    left: 20%;
+    width: 840px;
+    }
+    .NewWrite {
+    text-decoration: none;
+    background: #003458;
+    color: white;
+    padding: 7px 5px;
+    border-radius: 5px;
+    position: absolute;
+    top: 19.5%;
+    left: 67%;
+    }
+    .Ol {
+    position: absolute;
+    top: 29%;
+    left: 18%;
+    }
+    .Hr2 {
+    margin-top: 4px;
+    margin-bottom: 10px;
+    width: 400px;
+    }
+    .List {
+    text-decoration: none;
+    color: darkblue;
+    }
+    .Home {
+    text-decoration: none;
+    background: #003458;
+    color: white;
+    padding: 7px 5px;
+    border-radius: 5px;
+    position: absolute;
+    top: 19.5%;
+    left: 60%;
+    
+    }
