@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" width = "100%"/>
 
-# 다이어리 프로젝트(version1)
+# 다이어리 프로젝트(version2)
 
 ### 개발 기간
 2023.12.18~2023.12.20(3일간)
